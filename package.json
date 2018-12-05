@@ -1,6 +1,6 @@
 {
   "name": "loopback-connector-likethearms-mongodb",
-  "version": "4.0.0",
+  "version": "4.0.1",
   "description": "The official MongoDB connector for the LoopBack framework.",
   "engines": {
     "node": ">=6"
